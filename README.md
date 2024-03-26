@@ -39,30 +39,6 @@ This is an experimental project. We apologize for any shortcomings in the experi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
 ### Note
 - The path to ultimately clear the game is invisible.
 ### 注意
